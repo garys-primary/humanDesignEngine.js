@@ -1,6 +1,5 @@
-// Here I go, so help me God.
-// Thanslated with help of ChatGPT 3,
-// and https://www.javainuse.com/py2js
+// Transpiling Python to JavaScript can be tricky but not impossible.
+// Created with help of https://www.javainuse.com/py2js
 
 ////////////////////////////////////
 //                                //
